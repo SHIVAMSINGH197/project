@@ -56,7 +56,6 @@ mern-blogging-website-main/
 | **Backend Runtime** | Node.js, Express.js |
 | **Database** | MongoDB Atlas, Mongoose ODM |
 | **Authentication** | JWT (JSON Web Tokens), Firebase Admin SDK |
-| **Asset Storage** | Amazon Web Services (AWS S3) |
 | **API Testing & CI/CD** | VS Code REST Client (`requests.rest`), GitHub Actions |
 
 ---
