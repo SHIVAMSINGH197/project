@@ -1,4 +1,4 @@
-# Chronicle — Modern Fullstack MERN Publishing & Community Platform
+# Modern Fullstack MERN Publishing & Community Platform
 
 A developer-friendly publishing engine built on the MERN stack. Designed with a block-style composition interface, nested discussion hierarchies, reactive notifications, and cloud media pipelines, Chronicle delivers a frictionless reading and writing experience.
 
