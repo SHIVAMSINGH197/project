@@ -148,6 +148,4 @@ The server directory includes a ready-to-use testing file:
 
 ---
 
-## 📄 License
 
-This repository is distributed under the [MIT License](LICENSE).
